@@ -1,0 +1,40 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, #db1122, #fcfc53);
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+.randombutton {
+    font: 'Raleway', sans-serif;
+    appearance: none;
+    outline: 0;
+    background-color: #53e3a6;
+    border: 0;
+    padding: 6px 9px;
+    color: white;
+    border-radius: 3px;
+    width: 200px;
+    cursor: pointer;
+    font-size: 18px;
+}
